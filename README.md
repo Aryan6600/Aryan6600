@@ -19,7 +19,7 @@ I am interested in building and learning all kinds of things, Website Developmen
 
 ## Prompt Engineering:
 Used generative AI models to create spec-Ads
-[View Spec-Ads](https://aryan6600.github.io/Showcase/)
+
 
 
 If you want to reach me then connect on [Linkedin](https://linkedin.com/in/aryan6600)
